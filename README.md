@@ -107,8 +107,9 @@ The model is designed to reflect realistic pharmacy demand patterns during the C
 
 | File | Description |
 |---|---|
-| `pharmacy_covid_project_realistic.xlsx` | Formatted Excel workbook with dataset, summaries and analysis-ready tables |
-| `pharmacy_covid_dataset_realistic.csv` | Raw dataset for Power BI, Excel or Python analysis |
+| `data/pharmacy_covid_dataset_realistic.csv` | Raw synthetic dataset used for analysis |
+| `data/pharmacy_covid_operations_dashboard.xlsx` | Excel dashboard workbook with data, summaries, KPIs and insights |
+| `images/pharmacy_covid_operations_dashboard.png` | Dashboard image prepared for LinkedIn portfolio sharing |
 | `README.md` | Full project documentation and business explanation |
 
 ---
