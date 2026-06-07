@@ -59,21 +59,28 @@ The analysis focuses on OTC and COVID-related categories rather than the full tu
 
 ### Categories Included
 
-- Cough syrups
-- Lozenges
+The dataset includes 13 selected OTC, prescription-support and COVID-related categories:
+
+- Adult productive cough syrup
+- Adult dry cough syrup
+- Children's productive cough syrup
+- Children's dry cough syrup
+- Cough lozenges
+- Antibiotic prescriptions
 - Vitamins and supplements
-- Masks
-- Antiseptics
-- Gloves
+- Simple masks
+- KN95/FFP2 masks
+- Antiseptic / alcohol products
+- Hand gloves
 - COVID self-tests
 - Pharmacy COVID test service
-
+  
 ### Dataset Fields
 
 The dataset includes operational and commercial fields such as:
 
-- Week
-- Year
+- Week_Start
+- Year, derived from Week_Start for yearly analysis
 - Product category
 - Units sold
 - Revenue
